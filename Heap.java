@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class GFG {
+public class Heap {
 
     // To heapify a subtree rooted with node i
     static void heapify(int[] arr, int n, int i) {
