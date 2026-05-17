@@ -7,7 +7,7 @@ class Main
   {
     int i, k = 0, l = 0;
     /* k - starting row index 
-    m - ending row index 
+    m - ending row index c
     l - starting column index 
     n - ending column index 
     i - iterator 
